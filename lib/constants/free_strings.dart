@@ -3,14 +3,14 @@ import 'package:portfolio_website_for_linkedin/widgets/grid_layout_widget.dart';
 
 String headingGreeting = "Hola, This is Sanidhya Mishra!";
 String homeGreeting = "Hello, my name is Sanidhya Mishra and i am gonna take you through this amazing journey of dart and the wonders it can create.";
-String imageUrl = "sanidhya.jfif";
+String imageUrl = "https://res.cloudinary.com/dgqpwc77q/image/upload/v1743343303/ChatGPT_Image_Mar_30_2025_03_45_51_PM_wkpwqy.png";
 String aboutMeSectionString = "A Passionate and a dedicated app developer solely focused on improving the quality of the apps. Also eager to learn and explore about new technologies.";
 String skillsSection = "Flutter and Firebase, Backend Development with Node.js and Problem solving through Python and C++";
 String projectsSection = "E-commerce App: Developed an ecommerce app with flutter and firebase which offers all the basic features such as profile, products, reviews, wishlist and add to cart, Chatbot app using Slack: A node js app utilizing slack for chatting interface and integrated with the bunch of other API's such as Chat-GPT and News API";
-String experienceSection = "CalciteX Cybernetics LLP: App Developer (Feb 2024 - May 2024), House of Geeks: Coordinator of Community of Competitive Programming (2022-2023), Summer Internship at Bharat Intern: (Aug 2023 - Sep 2023)";
-String educationSection = "Bachelor of Science in Computer Science,Indian Institute of Information Technology Ranchi(2021-2025) With CGPA of 8.47, Intermediate from Elpro International School, Pune with a total aggregate of 94.1 percentage";
+String experienceSection = "Innovatrix Infotech : SDE Intern (July 2024 - Now), CalciteX Cybernetics LLP: App Developer (Feb 2024 - May 2024), House of Geeks: Coordinator of Community of Competitive Programming (2022-2023), Summer Internship at Bharat Intern: (Aug 2023 - Sep 2023)";
+String educationSection = "Bachelor of Technology in Computer Science,Indian Institute of Information Technology Ranchi(2021-2025) With CGPA of 8.47, Intermediate from Elpro International School, Pune with a total aggregate of 94.1 percentage";
 String contactSection = "Feel free to reach out to me via email at sanidhyamishra1511@gmail.com or connect with me on LinkedIn.";
-String resumeUrl = "https://drive.google.com/file/d/1ZQwS0IMRpHrVFUQkoURmrtb568LFORyw/view?usp=sharing";
+String resumeUrl = "https://drive.google.com/file/d/1yDj6ZSsomdVNhkpLIcFQAY0h2i7CsW9z/view?usp=sharing";
 
 String projectUrl1 = "https://github.com/dev-6768/node-ecommerce-app";
 String projectUrl2 = "https://github.com/dev-6768/my-chat-app";

@@ -98,7 +98,7 @@ class _HomePageLargeBodyState extends State<HomePageLargeBody> with SingleTicker
 
                 Center(
                   child: CircularAvatarWidget(
-                    fontSizeAllocationFunction()[3],
+                    radiusCircle: fontSizeAllocationFunction()[3],
                   ),
                 ),
 

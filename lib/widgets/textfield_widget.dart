@@ -52,7 +52,6 @@ class _TextfieldWidgetState extends State<TextfieldWidget> {
             }
             else {
               await FirebaseMessage.sendMessage(textEditingController.text);  
-              UtilFunctions.flutterToastFunction("Message Sent.");
             }
             
           }

@@ -45,6 +45,10 @@ dependencies:
   fluttertoast: ^8.2.4
   firebase_core: ^2.18.0
   cloud_firestore: ^4.11.0
+  device_info_plus: ^9.1.2
+  universal_platform: ^1.1.0
+  geolocator: ^13.0.2
+  geocoding: ^3.0.0
 
 
 dev_dependencies:
